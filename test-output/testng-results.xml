@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Converted JUnit suite" duration-ms="28080" started-at="2022-09-28T16:44:21Z" finished-at="2022-09-28T16:44:49Z">
+    <groups>
+    </groups>
+    <test name="JUnitTests" duration-ms="28080" started-at="2022-09-28T16:44:21Z" finished-at="2022-09-28T16:44:49Z">
+      <class name="org.pyconiq.pyconiqassignment.bookingsTest">
+        <test-method status="PASS" signature="verifyDeleteBooking()" name="verifyDeleteBooking" duration-ms="7064" started-at="2022-09-28T16:44:22Z" finished-at="2022-09-28T16:44:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDeleteBooking -->
+        <test-method status="PASS" signature="verifyGetBookingIds()" name="verifyGetBookingIds" duration-ms="23877" started-at="2022-09-28T16:44:22Z" finished-at="2022-09-28T16:44:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGetBookingIds -->
+        <test-method status="PASS" signature="verifyPartialUpdate()" name="verifyPartialUpdate" duration-ms="11408" started-at="2022-09-28T16:44:22Z" finished-at="2022-09-28T16:44:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPartialUpdate -->
+        <test-method status="PASS" signature="verifyUpdateBooking()" name="verifyUpdateBooking" duration-ms="27924" started-at="2022-09-28T16:44:22Z" finished-at="2022-09-28T16:44:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUpdateBooking -->
+        <test-method status="PASS" signature="verifyGetBooking()" name="verifyGetBooking" duration-ms="15490" started-at="2022-09-28T16:44:22Z" finished-at="2022-09-28T16:44:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGetBooking -->
+        <test-method status="PASS" signature="verifyCreateBooking()" name="verifyCreateBooking" duration-ms="18224" started-at="2022-09-28T16:44:22Z" finished-at="2022-09-28T16:44:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCreateBooking -->
+      </class> <!-- org.pyconiq.pyconiqassignment.bookingsTest -->
+    </test> <!-- JUnitTests -->
+  </suite> <!-- Converted JUnit suite -->
+</testng-results>
